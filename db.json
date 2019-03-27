@@ -1,8 +1,7 @@
 {
-  "posts": [
+  "get": [
     {
-      "id": 1,
-      "title": "hello"
+      "version": "1.0,0"
     }
   ],
   "profile": {
